@@ -1,1 +1,4 @@
+ HEAD
 Текст из master
+Текст из git2
+git2
